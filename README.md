@@ -2,4 +2,4 @@
 
 In development.
 
-![Rover PCB](https://github.com/rct4/Autonomous-Soil-Monitoring-Rover/blob/main/rover/rover.pdf)
+![Rover PCB](https://github.com/rct4/Autonomous-Soil-Monitoring-Rover/blob/main/rover/rover-1.png)
