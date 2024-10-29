@@ -10893,28 +10893,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "4062442d-ba62-4be3-a00c-c73001006c1d")
+			(uuid "4062442d-ba62-4be3-a00c-c73001006c1e")
 		)
 		(pin "1"
-			(uuid "302a1cd8-e8d0-4267-8124-4d8097358b2b")
+			(uuid "302a1cd8-e8d0-4267-8124-4d8097358b2c")
 		)
 		(pin "5"
-			(uuid "0b688acb-626f-48f1-9164-a943966c86de")
+			(uuid "0b688acb-626f-48f1-9164-a943966c86df")
 		)
 		(pin "7"
-			(uuid "303bd8e4-2c9b-430e-b9c7-0c88915580d6")
+			(uuid "303bd8e4-2c9b-430e-b9c7-0c88915580d7")
 		)
 		(pin "2"
-			(uuid "b45f8ea7-e684-465f-a7b5-2c0e52ed8077")
+			(uuid "b45f8ea7-e684-465f-a7b5-2c0e52ed8078")
 		)
 		(pin "6"
-			(uuid "6c9a3c27-1b05-436f-a95c-321b568bf5a5")
+			(uuid "6c9a3c27-1b05-436f-a95c-321b568bf5a6")
 		)
 		(pin "8"
-			(uuid "64a0494e-4ef1-4a34-9a53-464ceb6296a7")
+			(uuid "64a0494e-4ef1-4a34-9a53-464ceb6296a8")
 		)
 		(pin "3"
-			(uuid "af71adcc-608f-483a-ba55-879a87913a09")
+			(uuid "af71adcc-608f-483a-ba55-879a87913a0a")
 		)
 		(instances
 			(project ""
@@ -13483,28 +13483,28 @@
 			)
 		)
 		(pin "6"
-			(uuid "cec1b7ae-adf2-4e0b-b1db-d988349b770b")
+			(uuid "cec1b7ae-adf2-4e0b-b1db-d988349b770c")
 		)
 		(pin "2"
-			(uuid "ff12f1bf-f230-47bd-900e-ea75b3244c99")
+			(uuid "ff12f1bf-f230-47bd-900e-ea75b3244c9a")
 		)
 		(pin "8"
-			(uuid "dd9463ab-8c69-45df-b1ed-794529e519f7")
+			(uuid "dd9463ab-8c69-45df-b1ed-794529e519f8")
 		)
 		(pin "3"
-			(uuid "04a00a6e-2741-4866-b773-e6b3fdbdd609")
+			(uuid "04a00a6e-2741-4866-b773-e6b3fdbdd60a")
 		)
 		(pin "7"
-			(uuid "cf9ab9ff-b7db-4776-84e6-80ce07b2af31")
+			(uuid "cf9ab9ff-b7db-4776-84e6-80ce07b2af32")
 		)
 		(pin "4"
-			(uuid "126a6905-3cd0-4b3d-8f94-77e762af47d4")
+			(uuid "126a6905-3cd0-4b3d-8f94-77e762af47d5")
 		)
 		(pin "5"
-			(uuid "ef8476ce-4aa8-4057-963b-d22b6ce1de9a")
+			(uuid "ef8476ce-4aa8-4057-963b-d22b6ce1de9b")
 		)
 		(pin "1"
-			(uuid "e1db3108-805b-4d1e-ba67-57ea519521ee")
+			(uuid "e1db3108-805b-4d1e-ba67-57ea519521ef")
 		)
 		(instances
 			(project ""
@@ -13788,28 +13788,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "4062442d-ba62-4be3-a00c-c73001006c1d")
+			(uuid "4062442d-ba62-4be3-a00c-c73001006c1f")
 		)
 		(pin "1"
-			(uuid "302a1cd8-e8d0-4267-8124-4d8097358b2b")
+			(uuid "302a1cd8-e8d0-4267-8124-4d8097358b2d")
 		)
 		(pin "5"
-			(uuid "0b688acb-626f-48f1-9164-a943966c86de")
+			(uuid "0b688acb-626f-48f1-9164-a943966c86e0")
 		)
 		(pin "7"
-			(uuid "303bd8e4-2c9b-430e-b9c7-0c88915580d6")
+			(uuid "303bd8e4-2c9b-430e-b9c7-0c88915580d8")
 		)
 		(pin "2"
-			(uuid "b45f8ea7-e684-465f-a7b5-2c0e52ed8077")
+			(uuid "b45f8ea7-e684-465f-a7b5-2c0e52ed8079")
 		)
 		(pin "6"
-			(uuid "6c9a3c27-1b05-436f-a95c-321b568bf5a5")
+			(uuid "6c9a3c27-1b05-436f-a95c-321b568bf5a7")
 		)
 		(pin "8"
-			(uuid "64a0494e-4ef1-4a34-9a53-464ceb6296a7")
+			(uuid "64a0494e-4ef1-4a34-9a53-464ceb6296a9")
 		)
 		(pin "3"
-			(uuid "af71adcc-608f-483a-ba55-879a87913a09")
+			(uuid "af71adcc-608f-483a-ba55-879a87913a0b")
 		)
 		(instances
 			(project ""
@@ -15908,7 +15908,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:ESP32-S3-WROOM-1"
+		(property "Footprint" "ESP32:ESP32-S3-WROOM-1_EXP"
 			(at 254 66.04 0)
 			(effects
 				(font

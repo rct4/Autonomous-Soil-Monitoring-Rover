@@ -6,4 +6,5 @@
   (lib (name "LM358P")(type "KiCad")(uri "C:/Users/Tom/Downloads/LM358P/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "AO4485")(type "KiCad")(uri "C:/Users/Tom/Downloads/ul_AO4485/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "Inductor_Custom")(type "KiCad")(uri "${KIPRJMOD}/Inductor_Custom.pretty")(options "")(descr ""))
+  (lib (name "ESP32")(type "KiCad")(uri "${KIPRJMOD}/custom.pretty")(options "")(descr ""))
 )
