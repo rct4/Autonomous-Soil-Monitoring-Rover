@@ -2,6 +2,5 @@
 
 In development.
 
-![Rover PCB](https://github.com/rct4/Autonomous-Soil-Monitoring-Rover/blob/main/rover/rover-1.png)
+![Rover PCB](https://github.com/rct4/Autonomous-Soil-Monitoring-Rover/blob/main/Autonomous-Gardening-Rover-v2-master/Autonomous_Gardening_Rover_v2-1.png)
 
-![Buck Converter PCB](https://github.com/rct4/Autonomous-Soil-Monitoring-Rover/blob/main/buck_converter/buck_converter-1.png)
