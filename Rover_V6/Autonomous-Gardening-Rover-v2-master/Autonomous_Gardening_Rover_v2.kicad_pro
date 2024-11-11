@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.6002,
+          "width": 1.7526
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -127,7 +127,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
@@ -179,6 +179,8 @@
       ],
       "track_widths": [
         0.0,
+        0.127,
+        0.254,
         0.508
       ],
       "tuning_pattern_settings": {
@@ -445,7 +447,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "moisture_sensor.kicad_pro",
+    "filename": "Autonomous_Gardening_Rover_v2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -473,14 +475,27 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "/FB"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "3V3"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "+3V3"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/Tom/Downloads/Autonomous-Soil-Monitoring-Rover-wk2-2/Autonomous-Soil-Monitoring-Rover-wk2-2/Autonomous-Soil-Monitoring-Rover/Autonomous-Gardening-Rover-v2-master/gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -576,9 +591,9 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -590,8 +605,12 @@
   },
   "sheets": [
     [
-      "873840b0-7201-442b-9aac-f5f77467dc94",
+      "78312572-d800-4de0-bb85-e952d18dacd2",
       "Root"
+    ],
+    [
+      "4928d819-ffbc-4762-ba1e-0c92036da1b7",
+      "Autonomous_Soil_Monitoring_Rover_Ryan_v1"
     ]
   ],
   "text_variables": {}

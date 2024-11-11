@@ -1,4 +1,25 @@
-23837902446272824
+23855211772823207
+AO4485
+SO8SOP-8L_AOS
+
+AO4485 
+0
+8
+8
+AO4485
+SO8SOP-8L_AOS-L
+
+AO4485 
+0
+8
+8
+AO4485
+SO8SOP-8L_AOS-M
+
+AO4485 
+0
+8
+8
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56692,6 +56713,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32
+ESP32-S3-WROOM-1_EXP
+
+ESP32-S3-WROOM-1-N16R2 
+0
+49
+49
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -57868,6 +57896,13 @@ heatsink
 0
 0
 0
+Inductor_Custom
+Inductor_Custom
+
+
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -64693,6 +64728,20 @@ Yellow 5381 Series LED
 0
 2
 2
+LM358_NEW
+N08E
+
+LM358N/NOPB 
+0
+8
+8
+LM1173.3
+NDP0003B
+
+LM1117DTX-3.3/NOPB 
+0
+3
+3
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -90642,6 +90691,27 @@ Logo WEEE
 0
 0
 0
+TSP62933DRLR
+SOT5X3-8_DRL_TEX
+
+TPS62933PDRLR 
+0
+8
+8
+TSP62933DRLR
+SOT5X3-8_DRL_TEX-L
+
+TPS62933PDRLR 
+0
+8
+8
+TSP62933DRLR
+SOT5X3-8_DRL_TEX-M
+
+TPS62933PDRLR 
+0
+8
+8
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf

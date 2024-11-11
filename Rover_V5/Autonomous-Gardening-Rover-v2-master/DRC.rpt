@@ -1,0 +1,50 @@
+** Drc report for Autonomous_Gardening_Rover_v2.kicad_pcb **
+** Created on 2024-11-10T18:35:23-0600 **
+
+** Found 4 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(30.0000 mm, 25.5000 mm): Rectangle on Edge.Cuts
+    @(30.5900 mm, 45.5400 mm): Reference 'J4'
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(49.0000 mm, 54.7000 mm): Pad [<no net>] of JP1 on F.Mask
+    @(49.0000 mm, 55.5000 mm): Pad 1 [GND] of JP1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(49.0000 mm, 52.3000 mm): Pad [<no net>] of JP1 on F.Mask
+    @(49.0000 mm, 51.5000 mm): Track [+3V3] on F.Cu, length 2.5000 mm
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(60.3657 mm, 33.2400 mm): Footprint Text '*' of U1
+    @(60.3657 mm, 33.2400 mm): Footprint Text '*' of U1
+
+** Found 6 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(62.5000 mm, 54.5000 mm): Track [+3V3] on F.Cu, length 3.0000 mm
+    @(55.5000 mm, 54.0000 mm): Track [+3V3] on F.Cu, length 3.0000 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(53.6000 mm, 90.0875 mm): Pad 2 [GND] of U2 on F.Cu
+    @(35.0000 mm, 30.5000 mm): Zone [GND] on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(74.0000 mm, 64.0000 mm): PTH pad 1 [GND] of SW2
+    @(35.0000 mm, 30.5000 mm): Zone [GND] on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(35.0000 mm, 30.5000 mm): Zone [GND] on F.Cu
+    @(35.0000 mm, 30.5000 mm): Zone [GND] on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(35.0000 mm, 30.5000 mm): Zone [GND] on F.Cu
+    @(35.0000 mm, 30.5000 mm): Zone [GND] on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(69.2500 mm, 40.9600 mm): Pad 41 [GND] of U1 on F.Cu
+    @(35.0000 mm, 30.5000 mm): Zone [GND] on F.Cu
+
+** Found 0 Footprint errors **
+
+** End of Report **
