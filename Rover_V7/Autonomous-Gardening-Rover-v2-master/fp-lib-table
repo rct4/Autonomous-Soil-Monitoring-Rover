@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LM1173.3")(type "KiCad")(uri "C:/Users/test/Downloads/ul_LM1117DTX-3-3-NOPB/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "MPU6500")(type "KiCad")(uri "C:/Users/Tom/Downloads/ul_MPU-6500 (1)/KiCADv6/footprints.pretty")(options "")(descr "")(disabled))
+  (lib (name "TSP62933DRLR")(type "KiCad")(uri "C:/Users/test/Downloads/ul_TPS62933PDRLR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "LM358P")(type "KiCad")(uri "C:/Users/Tom/Downloads/LM358P/KiCADv6/footprints.pretty")(options "")(descr "")(disabled))
+  (lib (name "AO4485")(type "KiCad")(uri "C:/Users/test/Downloads/ul_AO4485/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "Inductor_Custom")(type "KiCad")(uri "${KIPRJMOD}/Inductor_Custom.pretty")(options "")(descr ""))
+  (lib (name "ESP32")(type "KiCad")(uri "${KIPRJMOD}/custom.pretty")(options "")(descr ""))
+  (lib (name "LM358_NEW")(type "KiCad")(uri "C:/Users/test/Downloads/ul_LM358N-NOPB/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "SS8050-G")(type "KiCad")(uri "${KIPRJMOD}/SS8050_G/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "ESP32 S3 WROOM 1 N16R8")(type "KiCad")(uri "${KIPRJMOD}/ESP32_S3_WROOM_1_N16R8/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
