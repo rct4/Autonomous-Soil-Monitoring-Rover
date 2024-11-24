@@ -906,7 +906,7 @@
 			(uuid "d9ba06ec-c94d-45da-8fff-620985b10601")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.Fab")
 			(uuid "6d0b2bee-83d6-44b2-9ae5-13a32432bdef")
 			(effects
@@ -3575,7 +3575,7 @@
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm^2 drill 1.3mm pad 2.6mm")
 		(property "Reference" "J6"
-			(at 2.54 -6.26 360)
+			(at 2.54 -6.26 0)
 			(layer "F.SilkS")
 			(uuid "4a3cdfca-cf18-4abb-b479-1bb4b7ebeb62")
 			(effects
@@ -3586,7 +3586,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 2.54 5.66 360)
+			(at 2.54 5.66 0)
 			(layer "F.Fab")
 			(uuid "90617a41-87cd-4aef-b71a-38f2ca6ae5f3")
 			(effects
@@ -4019,7 +4019,7 @@
 			(uuid "4703e6b2-92ec-44e0-9a79-ea338923802b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 3.2 360)
+			(at 2.54 3.2 0)
 			(layer "F.Fab")
 			(uuid "3326547e-8cd9-437f-9a15-b65af168a1df")
 			(effects
@@ -4070,7 +4070,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C6"
-			(at 0 -1.68 360)
+			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "656b4422-d214-40ba-9925-78026346c4db")
 			(effects
@@ -4081,7 +4081,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 0 1.68 360)
+			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "55671dbb-345e-4a32-ae13-e2b75fd8acaa")
 			(effects
@@ -4236,7 +4236,7 @@
 			(uuid "261064e2-e4a1-482f-a28d-62c8d8d2cdb5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "2a4b9e94-c580-4000-be96-2becb32bcbcd")
 			(effects
@@ -5190,7 +5190,7 @@
 		(descr "SOT-143 https://www.nxp.com/docs/en/package-information/SOT143B.pdf")
 		(tags "SOT-143")
 		(property "Reference" "D4"
-			(at 0.02 -2.7 360)
+			(at 0.02 -2.7 0)
 			(layer "F.SilkS")
 			(uuid "71dff8c8-6b54-4c39-986d-ec43082e3ea1")
 			(effects
@@ -5201,7 +5201,7 @@
 			)
 		)
 		(property "Value" "SP0503BAHT"
-			(at -0.28 2.48 360)
+			(at -0.28 2.48 0)
 			(layer "F.Fab")
 			(uuid "56fa4339-2123-456e-983d-95b20aaf6c1b")
 			(effects
@@ -5447,7 +5447,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 -1.65 360)
+			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "6081e352-b0c0-4549-91f7-42e48afa61d0")
 			(effects
@@ -5458,7 +5458,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "e6a7b684-e06b-4c83-bcbb-9c8d0ea1be99")
 			(effects
@@ -5613,7 +5613,7 @@
 			(uuid "97ebcabb-5b80-4fed-8b89-44d6959a2f93")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "e02c7c3d-ef76-49a8-8ee7-2fff59250c0d")
 			(effects
@@ -6797,7 +6797,7 @@
 			(uuid "e613de1e-5a4f-42f9-8817-c4cc37da0a1b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 10.16 360)
+			(at 0 10.16 0)
 			(layer "F.Fab")
 			(uuid "69bffd3f-719d-4b6d-a53f-c67506d2761c")
 			(effects
@@ -7141,7 +7141,7 @@
 			(uuid "4ca99d0b-4d61-4de7-ba8a-a2d8b5d0a813")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 10.16 360)
+			(at 0 10.16 0)
 			(layer "F.Fab")
 			(uuid "f900bfa9-0ab3-4189-ba60-058e92c923aa")
 			(effects
@@ -7269,7 +7269,7 @@
 		(descr "QFN, 24 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=278), generated with kicad-footprint-generator ipc_noLead_generator.py")
 		(tags "QFN NoLead")
 		(property "Reference" "U2"
-			(at 0 -3.3 360)
+			(at 0 -3.3 0)
 			(layer "F.SilkS")
 			(uuid "05f24244-e9b8-4925-956b-978f1131d663")
 			(effects
@@ -7280,7 +7280,7 @@
 			)
 		)
 		(property "Value" "CP2104"
-			(at 0 3.3 360)
+			(at 0 3.3 0)
 			(layer "F.Fab")
 			(uuid "62d0cd8a-f907-414c-9a1f-da2800fb38a9")
 			(effects
@@ -7517,7 +7517,7 @@
 			(uuid "eaca1733-9453-4613-ac02-6bec37cd08b4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "33a64baa-b69c-4aaf-8435-612853ce2632")
 			(effects
@@ -8254,7 +8254,7 @@
 			(uuid "cba37118-7062-4480-b9f6-2720873b5244")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.Fab")
 			(uuid "4a3fe69f-9c1e-4ae3-b9f9-83ddf57bb05d")
 			(effects
@@ -8316,7 +8316,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R2"
-			(at 0 -1.65 360)
+			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "5c0922d5-e6c2-4ec7-a6c0-797c6d02e7cc")
 			(effects
@@ -8327,7 +8327,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "239a11c0-c29c-4245-9ea4-4d2ab2b7c631")
 			(effects
@@ -8482,7 +8482,7 @@
 			(uuid "83c23da7-96b2-4ae1-ab35-cb929a8c2178")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "df4b73ec-e1a7-4d4c-8e4e-254ef4acf077")
 			(effects
@@ -8529,7 +8529,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J7"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "dc22ce5e-279d-4560-8a3d-703ad60fffef")
 			(effects
@@ -8540,7 +8540,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "aa7fcd1d-78a1-41ce-b368-8065514a5971")
 			(effects
@@ -8807,7 +8807,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J5"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "85affcdd-1a76-48a2-b4c0-94f947444a40")
 			(effects
@@ -8818,7 +8818,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "964570dd-9421-433f-9b83-92a699e4f55b")
 			(effects
@@ -9524,7 +9524,7 @@
 		(descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW1"
-			(at 3.25 -2 360)
+			(at 3.25 -2 0)
 			(layer "F.SilkS")
 			(uuid "f8354e9b-0ee3-49c8-bc07-6df1ea7b7e7a")
 			(effects
@@ -9535,7 +9535,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 3.75 6.7 360)
+			(at 3.75 6.7 0)
 			(layer "F.Fab")
 			(uuid "1121ac1b-6417-4252-9cf7-20c28d1384a0")
 			(effects
@@ -9810,7 +9810,7 @@
 			(uuid "7af1cf90-e69b-4f1f-a557-b3e4a1830545")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.25 2.25 360)
+			(at 3.25 2.25 0)
 			(layer "F.Fab")
 			(uuid "58899a58-9d22-4558-9101-c83cba647c13")
 			(effects
@@ -9883,7 +9883,7 @@
 		(descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW2"
-			(at 3.25 -2 360)
+			(at 3.25 -2 0)
 			(layer "F.SilkS")
 			(uuid "49df4446-f7dc-4f87-8686-6977028476fe")
 			(effects
@@ -9894,7 +9894,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 3.75 6.7 360)
+			(at 3.75 6.7 0)
 			(layer "F.Fab")
 			(uuid "10126d3b-8807-434d-ab20-fe928e8f6796")
 			(effects
@@ -10169,7 +10169,7 @@
 			(uuid "4f49aecc-34f4-40d8-9f89-441dbf221d69")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.25 2.25 360)
+			(at 3.25 2.25 0)
 			(layer "F.Fab")
 			(uuid "b089aec7-1556-4ee0-8f19-cd78c5570c61")
 			(effects
@@ -10242,7 +10242,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C7"
-			(at 0 -1.68 360)
+			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "4962d17f-00b2-47a0-ac3d-1de47f5ec40f")
 			(effects
@@ -10253,7 +10253,7 @@
 			)
 		)
 		(property "Value" "1-5uF"
-			(at 0 1.68 360)
+			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "17491584-fea8-417b-9fc4-a2c9a68da3fb")
 			(effects
@@ -10408,7 +10408,7 @@
 			(uuid "3ef60e61-ae86-465a-ab8d-c26659683412")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "59ff348f-4565-4e0a-bf7f-77f5b86385a5")
 			(effects
@@ -10455,7 +10455,7 @@
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm^2 drill 1.3mm pad 2.6mm")
 		(property "Reference" "J4"
-			(at 2.54 -6.26 360)
+			(at 2.54 -6.26 0)
 			(layer "F.SilkS")
 			(uuid "0b58fd40-afbc-4a2f-a9ed-7a99b7e54467")
 			(effects
@@ -10466,7 +10466,7 @@
 			)
 		)
 		(property "Value" "LINEAR ACTUATOR SIGNAL"
-			(at 2.54 5.66 360)
+			(at 2.54 5.66 0)
 			(layer "F.Fab")
 			(uuid "3f7a570c-1982-468f-beb1-09708cf50fc7")
 			(effects
@@ -10899,7 +10899,7 @@
 			(uuid "7f440455-e198-4c47-9fc9-5481e70abf4c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 3.2 360)
+			(at 2.54 3.2 0)
 			(layer "F.Fab")
 			(uuid "542771af-e20c-4b60-8e4b-d94749a48fae")
 			(effects
@@ -10950,7 +10950,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C8"
-			(at 0 -1.68 360)
+			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "504154a1-1ce4-4946-b8fc-582b7a48bb9e")
 			(effects
@@ -10961,7 +10961,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 0 1.68 360)
+			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "c41c890e-0b1e-47d8-8eb3-0ece31117abc")
 			(effects
@@ -11116,7 +11116,7 @@
 			(uuid "afba5f06-1db1-4741-b0e9-49957718960c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b5b81bf4-a2ff-419b-b98c-d7f2835cf696")
 			(effects
@@ -12845,6 +12845,15 @@
 		(uuid "83630686-d76c-458f-af63-b608211f4d13")
 	)
 	(via
+		(at 114.5 99)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 6)
+		(uuid "8cd5e14d-d3c5-4a22-ac80-d318fc62388f")
+	)
+	(via
 		(at 138.85 96.925)
 		(size 0.6)
 		(drill 0.3)
@@ -12934,12 +12943,28 @@
 		(uuid "4ce97ba5-7fac-4ad8-b314-598ddc362023")
 	)
 	(segment
+		(start 113.7 98.2)
+		(end 114.5 99)
+		(width 0.508)
+		(layer "B.Cu")
+		(net 6)
+		(uuid "9d174dc9-f6af-4c29-a0dc-ed1aa052ef8a")
+	)
+	(segment
 		(start 65.6 124.325)
 		(end 66.275 125)
 		(width 0.508)
 		(layer "B.Cu")
 		(net 6)
 		(uuid "d985af17-a6d6-4c71-baaa-d20b6471f8d8")
+	)
+	(segment
+		(start 113.7 95.5)
+		(end 113.7 98.2)
+		(width 0.508)
+		(layer "B.Cu")
+		(net 6)
+		(uuid "ed70886a-3c13-4b66-b197-97132fb1a530")
 	)
 	(segment
 		(start 74.63 91.09)
@@ -15863,7 +15888,7 @@
 				(xy 65.982111 98.6495) (xy 65.102129 98.6495) (xy 65.102123 98.649501) (xy 65.042516 98.655908)
 				(xy 64.907671 98.706202) (xy 64.907664 98.706206) (xy 64.792455 98.792452) (xy 64.792452 98.792455)
 				(xy 64.706206 98.907664) (xy 64.706202 98.907671) (xy 64.655908 99.042517) (xy 64.649501 99.102116)
-				(xy 64.6495 99.102135) (xy 64.6495 100.89787) (xy 64.649501 100.897876) (xy 64.655908 100.957483)
+				(xy 64.6495 99.102129) (xy 64.6495 100.89787) (xy 64.649501 100.897876) (xy 64.655908 100.957483)
 				(xy 64.706202 101.092328) (xy 64.706206 101.092335) (xy 64.792452 101.207544) (xy 64.792455 101.207547)
 				(xy 64.907664 101.293793) (xy 64.907671 101.293797) (xy 65.039081 101.34281) (xy 65.095015 101.384681)
 				(xy 65.119432 101.450145) (xy 65.10458 101.518418) (xy 65.08343 101.546673) (xy 64.961503 101.6686)
@@ -16962,28 +16987,28 @@
 				(xy 110.002127 117.577682) (xy 109.98128 117.644369) (xy 109.927688 117.689199) (xy 109.877665 117.699525)
 				(xy 106.454161 117.686255) (xy 106.387199 117.666311) (xy 106.366961 117.649937) (xy 100.010751 111.293726)
 				(xy 99.977266 111.232403) (xy 99.98225 111.162711) (xy 100.024122 111.106778) (xy 100.089586 111.082361)
-				(xy 100.098432 111.082045) (xy 101.317009 111.082045) (xy 101.317029 111.082046) (xy 101.323143 111.082046)
-				(xy 101.471769 111.082046) (xy 101.593349 111.05786) (xy 101.593349 111.057861) (xy 101.593355 111.057858)
-				(xy 101.617535 111.05305) (xy 101.697134 111.020079) (xy 101.754844 110.996175) (xy 101.878421 110.913604)
-				(xy 102.579792 110.212231) (xy 102.641115 110.178747) (xy 102.710806 110.183731) (xy 102.755154 110.212232)
-				(xy 102.822738 110.279816) (xy 102.953121 110.361741) (xy 102.999412 110.414076) (xy 103.01006 110.483129)
-				(xy 103.004191 110.507689) (xy 102.964632 110.620742) (xy 102.96463 110.62075) (xy 102.944435 110.799996)
-				(xy 102.944435 110.800003) (xy 102.96463 110.979249) (xy 102.964631 110.979254) (xy 103.024211 111.149523)
-				(xy 103.11482 111.293726) (xy 103.120184 111.302262) (xy 103.247738 111.429816) (xy 103.400478 111.525789)
-				(xy 103.570745 111.585368) (xy 103.57075 111.585369) (xy 103.749996 111.605565) (xy 103.75 111.605565)
-				(xy 103.750004 111.605565) (xy 103.929249 111.585369) (xy 103.929252 111.585368) (xy 103.929255 111.585368)
-				(xy 104.099522 111.525789) (xy 104.252262 111.429816) (xy 104.379816 111.302262) (xy 104.475789 111.149522)
-				(xy 104.475789 111.14952) (xy 104.479494 111.143625) (xy 104.480299 111.144131) (xy 104.498382 111.118641)
-				(xy 105.658819 109.958205) (xy 105.720142 109.92472) (xy 105.789834 109.929704) (xy 105.845767 109.971576)
-				(xy 105.870184 110.03704) (xy 105.8705 110.045886) (xy 105.8705 112.386459) (xy 105.863542 112.427414)
-				(xy 105.839631 112.495745) (xy 105.83963 112.49575) (xy 105.819435 112.674996) (xy 105.819435 112.675003)
-				(xy 105.83963 112.854249) (xy 105.839631 112.854254) (xy 105.899211 113.024523) (xy 105.995184 113.177262)
-				(xy 106.122738 113.304816) (xy 106.275478 113.400789) (xy 106.445745 113.460368) (xy 106.44575 113.460369)
-				(xy 106.624996 113.480565) (xy 106.625 113.480565) (xy 106.625004 113.480565) (xy 106.804249 113.460369)
-				(xy 106.804252 113.460368) (xy 106.804255 113.460368) (xy 106.974522 113.400789) (xy 107.127262 113.304816)
-				(xy 107.254816 113.177262) (xy 107.350789 113.024522) (xy 107.410368 112.854255) (xy 107.430565 112.675)
-				(xy 107.410368 112.495745) (xy 107.386457 112.427413) (xy 107.3795 112.386459) (xy 107.3795 106.130253)
-				(xy 107.399185 106.063214) (xy 107.451989 106.017459) (xy 107.512395 106.006573)
+				(xy 100.098432 111.082045) (xy 100.210539 111.082045) (xy 101.317009 111.082045) (xy 101.317029 111.082046)
+				(xy 101.323143 111.082046) (xy 101.471769 111.082046) (xy 101.593349 111.05786) (xy 101.593349 111.057861)
+				(xy 101.593355 111.057858) (xy 101.617535 111.05305) (xy 101.697134 111.020079) (xy 101.754844 110.996175)
+				(xy 101.878421 110.913604) (xy 102.579792 110.212231) (xy 102.641115 110.178747) (xy 102.710806 110.183731)
+				(xy 102.755154 110.212232) (xy 102.822738 110.279816) (xy 102.953121 110.361741) (xy 102.999412 110.414076)
+				(xy 103.01006 110.483129) (xy 103.004191 110.507689) (xy 102.964632 110.620742) (xy 102.96463 110.62075)
+				(xy 102.944435 110.799996) (xy 102.944435 110.800003) (xy 102.96463 110.979249) (xy 102.964631 110.979254)
+				(xy 103.024211 111.149523) (xy 103.11482 111.293726) (xy 103.120184 111.302262) (xy 103.247738 111.429816)
+				(xy 103.400478 111.525789) (xy 103.570745 111.585368) (xy 103.57075 111.585369) (xy 103.749996 111.605565)
+				(xy 103.75 111.605565) (xy 103.750004 111.605565) (xy 103.929249 111.585369) (xy 103.929252 111.585368)
+				(xy 103.929255 111.585368) (xy 104.099522 111.525789) (xy 104.252262 111.429816) (xy 104.379816 111.302262)
+				(xy 104.475789 111.149522) (xy 104.475789 111.14952) (xy 104.479494 111.143625) (xy 104.480299 111.144131)
+				(xy 104.498382 111.118641) (xy 105.658819 109.958205) (xy 105.720142 109.92472) (xy 105.789834 109.929704)
+				(xy 105.845767 109.971576) (xy 105.870184 110.03704) (xy 105.8705 110.045886) (xy 105.8705 112.386459)
+				(xy 105.863542 112.427414) (xy 105.839631 112.495745) (xy 105.83963 112.49575) (xy 105.819435 112.674996)
+				(xy 105.819435 112.675003) (xy 105.83963 112.854249) (xy 105.839631 112.854254) (xy 105.899211 113.024523)
+				(xy 105.995184 113.177262) (xy 106.122738 113.304816) (xy 106.275478 113.400789) (xy 106.445745 113.460368)
+				(xy 106.44575 113.460369) (xy 106.624996 113.480565) (xy 106.625 113.480565) (xy 106.625004 113.480565)
+				(xy 106.804249 113.460369) (xy 106.804252 113.460368) (xy 106.804255 113.460368) (xy 106.974522 113.400789)
+				(xy 107.127262 113.304816) (xy 107.254816 113.177262) (xy 107.350789 113.024522) (xy 107.410368 112.854255)
+				(xy 107.430565 112.675) (xy 107.410368 112.495745) (xy 107.386457 112.427413) (xy 107.3795 112.386459)
+				(xy 107.3795 106.130253) (xy 107.399185 106.063214) (xy 107.451989 106.017459) (xy 107.512395 106.006573)
 			)
 		)
 		(filled_polygon

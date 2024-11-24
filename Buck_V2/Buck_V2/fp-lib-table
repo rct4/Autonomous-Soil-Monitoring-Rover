@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "B340LA")(type "KiCad")(uri "${KIPRJMOD}/B340LA_13_F/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "TPS54331")(type "KiCad")(uri "${KIPRJMOD}/TPS54331D/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "IHLP")(type "KiCad")(uri "${KIPRJMOD}/IHLP2525CZER8R2M01/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "AO4485")(type "KiCad")(uri "${KIPRJMOD}/ul_AO4485/KiCADv6/footprints.pretty")(options "")(descr ""))
+)

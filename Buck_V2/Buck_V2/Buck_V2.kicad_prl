@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Autonomous_Gardening_Rover_v2.kicad_prl",
+    "filename": "Buck_V2.kicad_prl",
     "version": 3
   },
   "project": {
