@@ -2,8 +2,6 @@
 
 The autonomous soil monitoring rover is a project that aims to assist commercial farmers and personal gardeners by introducing an automated solution to monitoring soil data.
 
-#### Contents
-
 ## Software
 Motion plan is currently a naive solution, polling each sensor for feedback. A FreeRTOS solution is currently being developed to schedule sensor data collection and motor output.
 
